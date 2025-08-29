@@ -65,8 +65,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=muhammadziyo-hakimov&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadziyo-hakimov&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadziyo-hakimov&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
 ### Favourite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
